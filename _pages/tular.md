@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 
-[TuLaR (Tupían Language Resources)](https://tular.clld.org/) is an ongoing project within the CrossLingference project that collects linguistic data (lexical, morphological, and syntactic) related to the Tupían languages. It comprises four databases in different stages of completion: TuLeD (Tupían Lexical Database), TuDeT (Tupían Dependency Treebanks), TuMoD (Tupían Morphological Database), and TuPAn (Tupían Plants and Animals). The databases are mainly to be used in computational historcial linguistics for research on aspects of Tupían cultures. Click this link to meet the TuLaR team.
+[TuLaR (Tupían Language Resources)](https://tular.clld.org/) is an ongoing project within the CrossLingference project that collects linguistic data (lexical, morphological, and syntactic) related to the Tupían languages. It comprises four databases in different stages of completion: TuLeD (Tupían Lexical Database), TuDeT (Tupían Dependency Treebanks), TuMoD (Tupían Morphological Database), and TuPAn (Tupían Plants and Animals). The databases are mainly to be used in computational historcial linguistics for research on aspects of Tupían cultures. Click this link to meet [the TuLaR team](project.html).
 
 **Línguas Tupis, Universal Dependencies e Linguística Computacional**<br>
 Universidade Federal da Paraíba (março 2022)<br>

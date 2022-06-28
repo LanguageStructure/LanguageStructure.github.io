@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TuLaR Team
-description: a project with a background image
+description:
 img: assets/img/12.jpg
 nav: true
 ---
@@ -12,6 +12,8 @@ nav: true
         {% include figure.html path="assets/img/Fa.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="caption">
+    <b>Fabrício Gerardi</b>
+    <br>
     Computational linguistics, NLP, syntax, Tupían and Arawan languages, Amazon (the forest), coffee
  <br><i>fabricio.gerardi["at']uni-tuebingen.de</i>
 </div>
@@ -22,7 +24,8 @@ nav: true
         {% include figure.html path="assets/team/Stas.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="caption">
-    Stas
+    <b>Stanislav Reichert</b>
+    <br>
  <br><i>example@example.com</i>
 </div>
 </div>
@@ -32,6 +35,8 @@ nav: true
         {% include figure.html path="assets/team/carolina.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="caption">
+    <b>Carolina Aragon</b>
+    <br>
     Descriptive Linguistics, Anthropological Linguistics, Human rights policies for recently contacted indigenous groups.
  <br><i>carolinac.aragon["at']gmail.com</i>
 </div>
@@ -43,11 +48,12 @@ nav: true
 
 <div class="col-sm-4 mt-3 mt-md-0">
 <div class="container">
-        {% include figure.html path="assets/team/Tiago.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Tiago.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="caption">
-    Tiago
- <br><i>example@example.com</i>
+    <b>Tiago Tresoldi</b>
+    <br>
+ <br><i>tiago.tresoldi["at']lingfil.uu.se</i>
 </div>
 </div>
 
@@ -56,6 +62,8 @@ nav: true
         {% include figure.html path="assets/team/tania.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="caption">
+    <b>Tatiana Merzhevich</b>
+    <br>
     Computational Linguistics, NLP, Data Science, Yakut language, Wombats
  <br><i>tatiana.merzhevich["at']gmail.com</i>
 </div>
@@ -66,7 +74,8 @@ nav: true
         {% include figure.html path="assets/team/Lorena.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="caption">
-    Lorena
+    <b>Lorena Martín Rodriguez</b>
+    <br>
 
 </div>
 </div>
@@ -82,6 +91,8 @@ nav: true
         {% include figure.html path="assets/team/wellington.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="caption">
+    <b>Wellington Silva</b>
+    <br>
     NLP, Programming, Mathematics, Computational Language, Software Engineer
  <br><i>wellington.71319["at']gmail.com</i>
 </div>
@@ -92,6 +103,8 @@ nav: true
         {% include figure.html path="assets/team/Ulya.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="caption">
+    <b>Uliana Vedenina</b>
+    <br>
     Computational Linguistics, NLP
  <br><i>vedeninaulya["at']gmail.com</i>
 </div>
@@ -103,6 +116,8 @@ nav: true
         {% include figure.html path="assets/team/alice.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="caption">
+    <b>Alice</b>
+    <br>
     Studying computational linguistics.... meow!
 </div>
 </div>
