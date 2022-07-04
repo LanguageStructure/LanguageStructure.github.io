@@ -3,7 +3,7 @@ layout: page
 title: TuLaR Team
 description:
 img: assets/img/12.jpg
-nav: true
+nav: false
 ---
 
 <div class="row">
@@ -44,6 +44,7 @@ nav: true
 
 </div>
 
+
 <div class="row">
 
 <div class="col-sm-4 mt-3 mt-md-0">
@@ -59,6 +60,18 @@ nav: true
 
 <div class="col-sm-4 mt-3 mt-md-0">
 <div class="container">
+        {% include figure.html path="assets/team/Tim.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="caption">
+    <b>Tim Wienzek</b>
+    <br>
+    Computational historical linguistics
+ <br><i>tim.wienzek["at']uni-tuebingen.com</i>
+</div>
+</div>
+
+<div class="col-sm-4 mt-3 mt-md-0">
+<div class="container">
         {% include figure.html path="assets/team/tania.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="caption">
@@ -68,6 +81,9 @@ nav: true
  <br><i>tatiana.merzhevich["at']gmail.com</i>
 </div>
 </div>
+</div>
+
+<div class="row">
 
 <div class="col-sm-4 mt-3 mt-md-0">
 <div class="container">
@@ -76,15 +92,8 @@ nav: true
     <div class="caption">
     <b>Lorena Martín Rodriguez</b>
     <br>
-
-</div>
-</div>
-
-</div>
-
-
-<div class="row">
-
+    </div>
+    </div>
 
 <div class="col-sm-4 mt-3 mt-md-3">
 <div class="container">
@@ -110,6 +119,10 @@ nav: true
 </div>
 </div>
 
+</div>
+
+
+<div class="row">
 
 <div class="col-sm-4 mt-3 mt-md-0">
 <div class="container">
