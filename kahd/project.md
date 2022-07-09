@@ -30,14 +30,14 @@ nav: false
 </div>
 </div>
 
-<div class="col-sm-4 mt-4 mt-md-3">
+<div class="col-sm-4 mt-4 mt-md-1">
 <div class="container">
         {% include figure.html path="assets/team/carolina.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="caption">
     <b>Carolina Aragon</b>
     <br>
-    Descriptive Linguistics, Anthropological Linguistics, Human rights policies for recently contacted indigenous groups.
+    Descriptive Linguistics, Anthropological Linguistics, Human rights policies for recently contacted indigenous groups
  <br><i>carolinac.aragon["at']gmail.com</i>
 </div>
 </div>
@@ -92,12 +92,14 @@ nav: false
     <div class="caption">
     <b>Lorena Martín Rodriguez</b>
     <br>
+    Computational linguistics, Language Diversity, Discourse Studies, books, cake and tea
+    <br><i>lorenamartinrodrigue["at']cmail.carleton.ca</i>
     </div>
     </div>
 
-<div class="col-sm-4 mt-3 mt-md-3">
+<div class="col-sm-4 mt-3 mt-md-1">
 <div class="container">
-        {% include figure.html path="assets/team/wellington.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/team/wellington.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="caption">
     <b>Wellington Silva</b>
