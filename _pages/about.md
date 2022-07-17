@@ -16,6 +16,6 @@ I mainly work with Amazonian languages (specially Tupían and Arawan families): 
 and typology.
 
 
-I love good [coffee](https://espressocoffeeguide.com/) and Amazon (the forest).
+I love good [coffee](https://espressocoffeeguide.com/) and the Amazon (the forest).
 
 ---
