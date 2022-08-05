@@ -31,6 +31,7 @@ Bucharest, 24-27 August 2022
 **Phylogenetic inference of reticulate evolution in Tupí-Guaraní languages**<br>
 Ferraz Gerardi, Fabrício and Tresoldi, Tiago (2022)<br>
 Oxford, 1-5 August 2022<br>
+Download slides: [Presentation](/assets/pdf/ICHL-2022.pdf)<br>
 [International Conference on Historical Linguistics 2022 (ICHL25)](https://ichl.ling-phil.ox.ac.uk)
 
 
