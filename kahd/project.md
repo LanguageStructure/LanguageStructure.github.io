@@ -9,7 +9,7 @@ nav: false
 <div class="row">
 <div class="col-sm-4 mt-3 mt-md-0">
 <div class="container">
-        {% include figure.html path="assets/img/Fa.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="caption">
     <b>Fabrício Gerardi</b>
