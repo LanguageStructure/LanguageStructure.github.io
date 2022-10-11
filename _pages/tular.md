@@ -74,10 +74,6 @@ Gerardi, Fabrício Ferraz (2020)<br>
 Martín-Rodriguez, Lorena and Gerardi, Fabrício Ferraz (2021)<br>
 [Available online](https://github.com/UniversalDependencies/UD_Guajajara-TuDeT)
 
-**UD_Akuntsu-TuDeT (Akuntsu Treebank)**<br>
-Aragon, Carolina Coelho and Gerardi, Fabrício Ferraz (2021)<br>
-[Available online](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT)
-
 **The typology of grammatical relations in Tuparian languages, with special focus on Akuntsú. In Language Change and Linguistic Diversity: studies in honour of Lyle Campbell**<br>
 Aragon, C. & Ferraz Gerardi, F. (2022)<br>
 Ed. Thiago Chacon, Nala Lee, and Wilson Silva. University of Glasgow Press. To appear<br>

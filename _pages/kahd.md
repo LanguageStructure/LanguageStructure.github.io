@@ -3,7 +3,7 @@ layout: page
 permalink: /kahd/
 title: KAHD
 description:
-nav: true
+nav: false
 ---
 
 KAHD (Katukinan-Arawan-Harakmbut Database) is an ongoing project within the CrossLingference project that collects lexical data
