@@ -31,9 +31,6 @@ Gerardi, Fabrício Ferraz (2022)<br>
 Merzhevich, Tatiana and Gerardi, Fabrício Ferraz (2022)<br>
 [Available online](https://github.com/UniversalDependencies/UD_Yakut-YKTDT)
 
-
-<br>
-
 **KAHD: Katukinan-Arawan-Harakmbut Database (pre-release). JOHD (forthcoming)**<br>
 Ferraz Gerardi, F. and Aragon, C. and Reichert, S. (2022)<br>
 [Available online](https://openhumanitiesdata.metajnl.com)
