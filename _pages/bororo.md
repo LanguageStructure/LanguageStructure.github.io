@@ -14,7 +14,7 @@ O projeto de revitalização da língua Bororo tem como seu objetivo principal f
 
 ## Quem? 
 
-O projeto de revitalização do Bororo é uma parceria entre a comunidade Bororo, representatda pelos professores Kujibo (Mariel) Ekureu e Lauro Ekureu, Fabrício Ferraz Gerardi (Universidade de Tübingen), Carolina Aragon (Universidade Federal da Paraíba), Tim Wientzek (Universidade de Tübingen), e Padre Tiago Figueiró (SDB).
+O projeto de revitalização do Bororo é uma parceria entre a comunidade Bororo, representatda pelos professores Kujibo (Mariel) Ekureu e Lauro Ekureu, juntamente com Fabrício Ferraz Gerardi (Universidade de Tübingen), Carolina Aragon (Universidade Federal da Paraíba), Tim Wientzek (Universidade de Tübingen), e Padre Tiago Figueiró (SDB).
 
 ## 
 
