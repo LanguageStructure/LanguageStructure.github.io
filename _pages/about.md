@@ -17,8 +17,7 @@ social: false  # includes social icons at the bottom of the page
 <img style="float: right;" src="/Fa.jpg" width="200" >
 
 I am a (computational) linguist working at the [University of Tübingen](https://uni-tuebingen.de).
-I mainly work with Amazonian languages (specially Tupían and Arawan families): language structure, syntax (RRG), 
-and typology.
+I mainly work South American languages (specially languages of the [Tupían](https://tular.clld.org) and [Arawan](https://glottolog.org/resource/languoid/id/araw1282) families, [Bororo](https://glottolog.org/resource/languoid/id/boro1282), and [Xavante](https://glottolog.org/resource/languoid/id/xava1240)): language structure, syntax (RRG), and typology.
 
 
 I love good [coffee](https://espressocoffeeguide.com/) and the Amazon (the forest).
