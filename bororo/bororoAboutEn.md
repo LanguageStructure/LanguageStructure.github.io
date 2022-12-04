@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bororo
+title: 
 nav: false
 
 news: false  # includes a list of news items
