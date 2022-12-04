@@ -16,15 +16,15 @@ Português:
 
 This is an English version of the Bororo page.
 
-# Projeto de Revitalização da língua Bororo
+# Bororo revitalization project
 
-O projeto de revitalização da língua Bororo tem como seu objetivo principal fazer com que a língua seja falada com mais frequência na terra indígena Merure, tanto pelos adultos, como pelas crianças, já que muitas tem somente um conhecimento passivo da língua.
+The project to revitalize the Bororo language has as its main objective to make the language more frequently spoken in the Meruri indigenous land, both by adults and children, since many children have only a passive knowledge of the language.
 
 <br>
 
 <figure align="center" >
   <img src="../assets/img/house.JPG" style="width:500px">
-    <figcaption>Casa tradicional Bororo. Foto: Fabrício Gerardi (Meruri, Novembro 2022)</figcaption>
+    <figcaption>Traditional Boror house. Photo: Fabrício Gerardi (Meruri, November 2022)</figcaption>
 </figure>
 
 <br>
@@ -32,14 +32,14 @@ O projeto de revitalização da língua Bororo tem como seu objetivo principal f
 
 ## Quem?
 
-O projeto de revitalização do Bororo é uma parceria entre a comunidade Bororo, representatda pelos professores Kujibo (Mariel) Ekureu e Lauro Ekureu, juntamente com Fabrício Ferraz Gerardi (Universidade de Tübingen), Carolina Aragon (Universidade Federal da Paraíba), Tim Wientzek (Universidade de Tübingen), e Padre Tiago Figueiró (SDB).
+The Bororo revitalization project is a partnership between the Bororo community, represented by the teachers Kujibo (Mariel) Ekureu and Lauro Ekureu, together with Fabrício Ferraz Gerardi (University of Tübingen), Carolina Aragon (Federal University of Paraíba), Tim Wientzek (University of of Tübingen), and Father Tiago Figueiró (SDB).
 
 
 <br>
 
 <figure align="center">
   <img src="../assets/img/wall.JPG" style="width:500px">
-   <figcaption>Parede de casa tradicional Bororo. Foto: Fabrício Gerardi (Meruri, Novembro 2022)</figcaption>
+   <figcaption>Internal wall of a traditional Bororo house. Photo: Fabrício Gerardi (Meruri, November 2022)</figcaption>
 </figure>
 
 <br>
@@ -47,22 +47,21 @@ O projeto de revitalização do Bororo é uma parceria entre a comunidade Bororo
 
 ## O que planejamos produzir?
 
-* Gramática de referência do Bororo / Bororo reference grammar (Versão em Inglês e Português, online e impressa)
-* Dicionário Bororo (versão online em CLDF)
-* Proposta de ortografia para a língua
-* Livros de alfabetização em Bororo
-* Modernização de materiais já exitentes
-* Criação de artigos em Bororo na Wikipedia
-* [Banco de árvore da língua Bororo](https://github.com/UniversalDependencies/UD_Bororo-BDT/tree/dev) com mitos, histórias, material de pesquisa de campo, e outros textos (com tradução para o inglês e para o português)
-* Workshops com a comunidade
-* Promoção da cultura bororo
+* Reference grammar of the Bororo langauage (English and Portuguese version, online and in print)
+* Bororo dictionary (online version available in CLDF)
+* Proposal of an orthography for the Bororo language
+* School books in Bororo (various grades)
+* Modernization of school material
+* [UD Bororo treebank](https://github.com/UniversalDependencies/UD_Bororo-BDT/tree/dev) with myths, stories, fieldwork material, and other texts (English and Portuguese translations)
+* Workshops with and for the comunity
+* Promotion of Bororo culture
 
 
 <br>
 
 <figure align="center" >
   <img src="../assets/img/roof.JPG" style="width:500px">
-    <figcaption>Teto de casa tradicional Bororo. Foto: Fabrício Gerardi (Meruri, Novembro 2022)</figcaption>
+    <figcaption>Roof of a traditional Bororo house. Photo: Fabrício Gerardi (Meruri, November 2022)</figcaption>
 </figure>
 
 <br>
