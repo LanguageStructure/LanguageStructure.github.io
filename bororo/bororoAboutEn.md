@@ -32,7 +32,7 @@ The project to revitalize the Bororo language has as its main objective to make 
 
 ## Who?
 
-The Bororo revitalization project is a partnership between the Bororo community, represented by the teachers Kujibo (Mariel) Ekureu and Lauro Ekureu, together with Fabrício Ferraz Gerardi (University of Tübingen), Carolina Aragon (Federal University of Paraíba), Tim Wientzek (University of of Tübingen), and Father Tiago Figueiró (SDB).
+The Bororo revitalization project is a partnership between the Bororo community, represented by the teachers Kujibo (Mariel) Ekureu and Lauro Ekureu, together with Fabrício Ferraz Gerardi (University of Tübingen), Carolina Aragon (Federal University of Paraíba), Tiago Tresoldi (University of Uppsala), Tim Wientzek (University of of Tübingen), and Father Tiago Figueiró (SDB).
 
 
 <br>
