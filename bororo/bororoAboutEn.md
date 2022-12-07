@@ -18,7 +18,11 @@ This is an English version of the Bororo page.
 
 # Bororo revitalization project
 
-The project to revitalize the Bororo language has as its main objective to make the language more frequently spoken in the Meruri indigenous land, both by adults and children, since many children have only a passive knowledge of the language.
+The Bororo language revitalization project has as its main objective to make the language spoken more frequently in the daily life of the community, both by adults and mainly by children, who are no longer speaking the language.
+
+## Where ?
+
+Initially, the work will be carried out in the [Meruri indigenous land](https://terrasindigenas.org.br/pt-br/terras-indigenas/3767)
 
 <br>
 
