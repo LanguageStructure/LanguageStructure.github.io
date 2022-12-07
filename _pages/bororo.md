@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /bororo/
-title: 
+title: Bororo
 nav: true
 ---
 
