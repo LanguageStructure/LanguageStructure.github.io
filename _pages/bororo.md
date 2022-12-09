@@ -52,7 +52,6 @@ O projeto de revitalização do Bororo é uma parceria entre a comunidade Bororo
 * Proposta de ortografia para a língua
 * Livros de alfabetização em Bororo
 * Modernização de materiais já exitentes
-* Criação de artigos em Bororo na Wikipedia
 * [Banco de árvore da língua Bororo](https://github.com/UniversalDependencies/UD_Bororo-BDT/tree/dev) com mitos, histórias, material de pesquisa de campo, e outros textos (com tradução para o inglês e para o português)
 * Workshops com a comunidade
 * Promoção da cultura bororo
