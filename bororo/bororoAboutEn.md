@@ -36,7 +36,7 @@ Initially, the work will be carried out in the [Meruri indigenous land](https://
 
 ## Who?
 
-The Bororo revitalization project is a partnership between the Bororo community, represented by the teachers Kujibo (Mariel) Ekureu and Lauro Ekureu, together with Fabrício Ferraz Gerardi (University of Tübingen), Carolina Aragon (Federal University of Paraíba), Tiago Tresoldi (University of Uppsala), Tim Wientzek (University of of Tübingen), and Father Tiago Figueiró (SDB).
+The Bororo revitalization project is a partnership between the Bororo community, represented by the teachers Kujibo (Mariel) Ekureu and Lauro Ekureu (Universidade de São Paulo), together with Fabrício Ferraz Gerardi (University of Tübingen), Carolina Aragon (Universidade Federal University of Paraíba), Tiago Tresoldi (University of Uppsala), Tim Wientzek (University of of Tübingen), and Father Tiago Figueiró (SDB).
 
 
 <br>
