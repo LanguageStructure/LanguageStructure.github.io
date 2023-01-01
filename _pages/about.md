@@ -16,10 +16,10 @@ social: false  # includes social icons at the bottom of the page
 
 <img style="float: right;" src="/Fa2.png" width="350" >
 
-I am a (computational) linguist working at the [University of Tübingen](https://uni-tuebingen.de). My main interests are language structure, syntax (RRG), and typology. I am currently working on South American languages (specially languages of the [Tupían](https://tular.clld.org) and [Arawan](https://glottolog.org/resource/languoid/id/araw1282) families, [Bororo](https://glottolog.org/resource/languoid/id/boro1282), and [Xavante](https://glottolog.org/resource/languoid/id/xava1240)): 
+I am a (computational) linguist working at the [University of Tübingen](https://uni-tuebingen.de). My main interests are language structure, syntax (RRG), and typology. I am currently working on South American languages (specially languages of the [Tupían](https://tular.clld.org) and [Arawan](https://glottolog.org/resource/languoid/id/araw1282) families, [Bororo](https://glottolog.org/resource/languoid/id/boro1282), and [Xavante](https://glottolog.org/resource/languoid/id/xava1240)). 
 
 
-I love good [coffee](https://espressocoffeeguide.com/) and the Amazon (the forest).
+I love good [coffee](https://espressocoffeeguide.com/).
 
 
 
