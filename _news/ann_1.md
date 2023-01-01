@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-08-?? 15:59:00-0000
+date: 2023-08-01 15:59:00-0000
 inline: true
 ---
 TuLaR will present ongoing work in Athens (upcoming in August).
