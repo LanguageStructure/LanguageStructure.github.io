@@ -6,6 +6,9 @@ description:
 nav: true
 ---
 
+**Linguistic diversity in Africa and in Brazil**<br>
+SS 23 (with Miri Mertner) <br>
+
 **Syntactic complexity and Universal Dependencies**<br>
 WS 22-23 <br>
 
