@@ -14,11 +14,11 @@ English:
 
 # Projeto de Revitalização da língua Bororo
 
-O projeto de revitalização da língua Bororo tem como seu objetivo principal fazer com que a língua seja falada com mais frequência no dia-a-dia da comunidade, tanto pelos adultos, como pricipalmente pelas crianças, que estão deixando de falar a língua.
+O projeto de revitalização da língua Bororo tem como seu objetivo principal fazer com que a língua seja falada com mais frequência no dia-a-dia da comunidade, tanto pelos adultos, como pelas crianças, que estão deixando de falar a língua.
 
 ## Onde?
 
-Inicialmente o trabalho será realizado na [terra indígena Meruri](https://terrasindigenas.org.br/pt-br/terras-indigenas/3767)
+Otrabalho está sendo realizado na [terra indígena Meruri](https://terrasindigenas.org.br/pt-br/terras-indigenas/3767) em parceria com a comunidade.
 
 <br>
 
@@ -45,7 +45,7 @@ O projeto de revitalização do Bororo é uma parceria entre a comunidade Bororo
 <br>
 <br>
 
-## O que planejamos produzir?
+## Produção?
 
 * Gramática de referência do Bororo / Bororo reference grammar (Versão em Inglês e Português, online e impressa)
 * Dicionário Bororo (versão online em CLDF)
