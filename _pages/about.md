@@ -17,7 +17,7 @@ social: false  # includes social icons at the bottom of the page
 <img style="float: right;" src="/Fa2.png" width="350" >
 
 
-I am a (computational) linguist working at the [University of Tübingen](https://uni-tuebingen.de), where I teach about and conduct research on language structure. My main interests are syntax - especially Role and Reference Grammar (RRG) -, typology, and language evolution . I am currently working on South American languages (specially languages of the [Tupían](https://tular.clld.org) and [Arawan](https://glottolog.org/resource/languoid/id/araw1282) families, but also [Bororo](https://glottolog.org/resource/languoid/id/boro1282), and [Xavante](https://glottolog.org/resource/languoid/id/xava1240)). I have been conducting field work in Central Brazil. 
+I am a (computational) linguist working at the [University of Tübingen](https://uni-tuebingen.de), where I teach about and conduct research on language structure and linguistic diversity. My main interests are syntax - especially Role and Reference Grammar (RRG) -, typology, and language evolution. I am currently working on South American languages, developing databases, corpora, and descriptions. I have been conducting field work in Central Brazil, where I am, together with a native community, active in a language revitalization propject.
 
     
 
