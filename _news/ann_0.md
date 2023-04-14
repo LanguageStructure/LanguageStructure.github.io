@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2023-03-01 09:00:00-0000
+date: 2023-06-06 16:00:00-0000
 inline: true
 ---
-I will be conducting field work in South America during the month or March. 
+[I'll be giving a talk at the University of Bonn](https://www.iak.uni-bonn.de/de/institut/abteilungen/altamerikanistik/veranstaltungen-1/kolloquiumstitel-wird-noch-bekannt-gegeben) 
 
 ---
 
