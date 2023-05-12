@@ -23,10 +23,10 @@ I have conducted fieldwork in Central Brazil, studying two languages from differ
 At the University of Tübingen, I teach courses on language structure and linguistic diversity, drawing on my research to provide students with a comprehensive understanding of the field. I am passionate about sharing my knowledge with others and inspiring the next generation of linguists.
 
 ---
-## Educational backrgound
+## Educational background
 
 * PhD in linguistics
-* Master's degree in computational liguistics
+* Master's degree in computational linguistics
 * Master's degree in Ancient Hebrew
 * Bachelor's degree in classical languages (Ancient Greek and Latin)
     
