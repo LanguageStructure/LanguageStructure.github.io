@@ -14,8 +14,6 @@ Português:
 
 <br>
 
-This is an English version of the Bororo page.
-
 # Bororo revitalization project
 
 The Bororo language revitalization project has as its main objective to make the language spoken more frequently in the daily life of the community, both by adults and mainly by children, who are no longer speaking the language.
