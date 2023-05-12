@@ -19,6 +19,13 @@ social: false  # includes social icons at the bottom of the page
 
 I am a (computational) linguist working at the [University of Tübingen](https://uni-tuebingen.de), where I teach about and conduct research on language structure and linguistic diversity. My main interests are syntax - especially Role and Reference Grammar (RRG), typology, and language evolution. I am currently working on South American languages, developing databases, corpora, and descriptions. I have been conducting field work in Central Brazil, where I am, together with a native community, active in a language revitalization propject.
 
+---
+## Educational backrgound
+
+* PhD in linguistics
+* Master's degree in computational liguistics
+* Master's degree in Ancient Hebrew
+* Bachelor's degree in classical languages (Ancient Greek and Latin)
     
 
 
