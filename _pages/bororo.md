@@ -14,7 +14,6 @@ English:
 
 # Projeto de Revitalização da língua Bororo
 
-O projeto de revitalização da língua Bororo tem como seu objetivo principal fazer com que a língua seja falada com mais frequência no dia-a-dia da comunidade, tanto pelos adultos, como pelas crianças, que estão deixando de falar a língua.
 
 ## Onde?
 
