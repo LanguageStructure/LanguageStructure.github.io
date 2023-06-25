@@ -16,9 +16,6 @@ Click this link to meet [the TuLaR team](../tular/project.html)
 **Histórias às margens (Stories on the margins)**<br>
 [Available online](https://languagestructure.github.io/castanha/)
 
-**Xavante Language Resources**<br>
-Roksandic, Ivan and Gerardi, Fabrício Ferraz<br>
-
 **Web application for displaying complexity metrics for Tupían UD-treebanks**<br>
 Gerardi, Fabrício Ferraz and da Silva, Wellington and Merzhevich, Tatiana (2022)<br>
 [Available online](https://ffgerardi.shinyapps.io/TuDeT-Stats/)
