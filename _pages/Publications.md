@@ -12,7 +12,7 @@ nav: true
 **A Role and Reference Grammar Description of Tupinambá**
 Ferraz Gerardi, F. (2023) [Available in open access](https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/publizieren-forschen/publizieren/tuebingen-library-publishing/programm/) or [as Hardcover](https://www.amazon.de/ROLE-REFERENCE-GRAMMAR-DESCRIPTION-TUPINAMBÁ/dp/3946552846/ref=sr_1_1?__mk_de_DE=ÅMÅŽÕÑ&crid=4Z2ZT4S1RIZ1&keywords=tupinamba+gerardi&qid=1695295358&sprefix=tupinamba+gerardi%2Caps%2C133&sr=8-1)<br>
 
-## Book chapters
+### Book chapters
 
 **Estudo morfológico e tipológico das línguas Xavante e Bororo: mais evidências para as respectivas afiliações genéticas**<br>
 Aragon, C. & Ferraz Gerardi, F. & de Oliveira, Rosana C. (forthcoming)
@@ -21,7 +21,7 @@ Aragon, C. & Ferraz Gerardi, F. & de Oliveira, Rosana C. (forthcoming)
 Aragon, C. & Ferraz Gerardi, F. (2022)<br>
 Ed. Thiago Chacon, Nala Lee, and Wilson Silva. University of Glasgow Press. To appear<br>
 
-## Articles
+### Articles
 
 **Lexical Phylogenetics of the Tupí-Guaraní Family: Language, Archaeology, and the Problem of Chronology**
 Gerardi, F. F., Tresoldi, T., Aragon, C. C., Reichert, S., de Souza, J. G., & Noelli, F. S. (2023) PLOS ONE. [DOI 10.1371/journal.pone.0272226](https://doi.org/10.1371/journal.pone.0272226)<br>
@@ -35,7 +35,7 @@ Gerardi, F. F., Reichert, S., & Aragon, C. C. (2021)<br>
 [Language Resources and Evaluation, 1-19](https://link.springer.com/article/10.1007/s10579-020-09521-5)
 
 
-## Databases
+### Databases
 
 Fabrício Ferraz Gerardi, Carolina Aragon, Fernando Orphão de Carvalho, Stanislav Reichert, Alan Vogel, & An Van linden. (2023). Katukinan-Arawan-Harakmbut Database (KAHD) (0.9.1) [Data set]. Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8362943.svg)](https://doi.org/10.5281/zenodo.8362943)
 
@@ -44,7 +44,7 @@ Ferraz Gerardi, Fabrício, & Tresoldi, Tiago. (2023). Lexical Database of Bororo
 Fabrício Ferraz Gerardi, Stanislav Reichert, Carolina Aragon, Tim Wientzek, Johann-Mattis List, & Robert Forkel. (2022). [TuLeD. Tupían Lexical Database](https://tular.clld.org/contributions/tuled) (v0.12) [Data set]. Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6572576.svg)](https://doi.org/10.5281/zenodo.6572576)
 
 
-## Talks
+### Talks
 
 **A Phylogenetic Study of the Cariban Family
 Combining Linguistic and Archaeological Data**<br>
@@ -98,12 +98,12 @@ Fabrício Ferraz Gerardi (Março 2022)<br>
 [Universidade Federal da Paraíba (2021)](https://sigeventos.ufpb.br/eventos/login.xhtml)
 
 
-## Workshops organized
+### Workshops organized
 
 Diachronic Morphosyntax in South American Languages (Bruno Estigarribia & Fabrício Ferraz Gerardi). [56th Annual Meeting of the Societas Linguistica Europaea, Athens.](https://societaslinguistica.eu/sle2023/workshops/)
 
 
-## Treebanks
+### Treebanks
 
 **UD_Teko-TuDeT (Tekó Treebank)**<br>
 Gerardi, Fabrício Ferraz and Vedenina, Uliana (2023)<br>
