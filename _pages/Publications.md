@@ -1,12 +1,11 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
+title: Selected Publications
 description:
 nav: true
 ---
 
-# Selected Publications
 
 ## Books
 
