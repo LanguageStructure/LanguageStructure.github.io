@@ -103,36 +103,39 @@ Fabrício Ferraz Gerardi (Março 2022)<br>
 Diachronic Morphosyntax in South American Languages (Bruno Estigarribia & Fabrício Ferraz Gerardi). [56th Annual Meeting of the Societas Linguistica Europaea, Athens.](https://societaslinguistica.eu/sle2023/workshops/)
 
 
-## ?
-
-**Building a Finite-State Transducer for Mundurukú. Bachelor thesis**<br>
-Filipidis, Evangelos (2022)<br>
-[Ebehard Karls Universität Tübingen](https://github.com/EvangelosF/Munduruku_FST/blob/main/README.md)
-
-
-
-
-**UD_Guarani-OldTuDeT (Old Guaraní Treebank)**<br>
-Gerardi, Fabrício Ferraz (2022)<br>
-[Available online](https://github.com/UniversalDependencies/UD_Guarani-OldTuDeT)
+## Treebanks
 
 **UD_Teko-TuDeT (Tekó Treebank)**<br>
-Gerardi, Fabrício Ferraz and Vedenina, Uliana (2022)<br>
+Gerardi, Fabrício Ferraz and Vedenina, Uliana (2023)<br>
 [Available online](https://github.com/UniversalDependencies/UD_Teko-TuDeT)
 
 **UD_Karo-TuDeT (Karo Treebank)**<br>
-Gerardi, Fabrício Ferraz (2021)<br>
+Gerardi, Fabrício Ferraz (2023)<br>
 [Available online](https://github.com/UniversalDependencies/UD_Karo-TuDeT)
 
 **UD_Akuntsu-TuDeT (Akuntsu Treebank)**<br>
-Aragon, Carolina Coelho and Gerardi, Fabrício Ferraz (2021)<br>
+Aragon, Carolina Coelho and Gerardi, Fabrício Ferraz (2023)<br>
 [Available online](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT)
 
 **UD_Tupinamba-TuDeT (Tupinambá Treebank)**<br>
-Gerardi, Fabrício Ferraz (2020)<br>
+Gerardi, Fabrício Ferraz (2023)<br>
 [Available online](https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT)
 
 **UD_Guajajara-TuDeT (Guajajara Treebank)**<br>
-Martín-Rodriguez, Lorena and Gerardi, Fabrício Ferraz (2021)<br>
+Martín-Rodriguez, Lorena and Gerardi, Fabrício Ferraz (2023)<br>
 [Available online](https://github.com/UniversalDependencies/UD_Guajajara-TuDeT)
+
+**UD_Bororo-BDT (Bororo Treebank)**<br>
+Gerardi, Fabrício Ferraz (2023)<br>
+[Available online](https://github.com/UniversalDependencies/UD_Bororo-BDT)
+
+**UD_Madi-Jarawara (Jarawara Treebank)**<br>
+Vogel, Alan & Gerardi, Fabrício Ferraz & Satler, Julia (2023)<br>
+[Available online](https://github.com/UniversalDependencies/UD_Madi-Jarawara)
+
+**UD_Xavante-XDT (Xavante Treebank)**<br>
+Gerardi, Fabrício Ferraz & Roksandic, Ivan (2023)<br>
+[Available online](https://github.com/UniversalDependencies/UD_Xavante-XDT)
+
+
 
