@@ -44,11 +44,21 @@ Ferraz Gerardi, Fabrício, & Tresoldi, Tiago. (2023). Lexical Database of Bororo
 Fabrício Ferraz Gerardi, Stanislav Reichert, Carolina Aragon, Tim Wientzek, Johann-Mattis List, & Robert Forkel. (2022). [TuLeD. Tupían Lexical Database](https://tular.clld.org/contributions/tuled) (v0.12) [Data set]. Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6572576.svg)](https://doi.org/10.5281/zenodo.6572576)
 
 
-
 ## Talks
 
+**A Phylogenetic Study of the Cariban Family
+Combining Linguistic and Archaeological Data**<br>
+Tiago Tresoldi, Fernando Orphão de Carvalho, Fabrício Ferraz Gerardi and Bruno de Souza Barreto (2023)<br>
+Heidelberg, 4-8 September 2022<br>
+[International Conference on Historical Linguistics 2023 (ICHL24)]([https://ichl.ling-phil.ox.ac.uk](https://www.slav.uni-heidelberg.de/forschung/tagungen/ichl26/index.html))
+
+**Revisiting the RRG binary lexical categories distinction: evidence from two South American families** <br>
+[Ferraz Gerardi, Fabrício (2023](https://rrg2023.phil.hhu.de/program/)<br>
+Düsseldorf 14-16 August 2023 
+7th International Conference on Role and Reference Grammar (RRG 2023)
+
 **Comparing morphosyntactic patterns in Katukinan, Harakmbut and Arawan: Genealogical relations or language contact?** <br>
-Van linden, An & Ferraz Gerardi, Fabrício (2022)<br>
+[Van linden, An & Ferraz Gerardi, Fabrício (2023)](https://societaslinguistica.eu/sle2023/programme/)<br>
 Athens 29 August – 1 September 2023 
 56th Annual Meeting of the Societas Linguistica Europaea<br>
 
