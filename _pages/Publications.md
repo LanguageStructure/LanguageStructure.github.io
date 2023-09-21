@@ -47,7 +47,12 @@ Fabrício Ferraz Gerardi, Stanislav Reichert, Carolina Aragon, Tim Wientzek, Joh
 
 ## Talks
 
-**Extending alignments for Tupían historical linguistics**<br>
+**Comparing morphosyntactic patterns in Katukinan, Harakmbut and Arawan: Genealogical relations or language contact?** <br>
+Van linden, An & Ferraz Gerardi, Fabrício (2022)<br>
+Athens 29 August – 1 September 2023 
+56th Annual Meeting of the Societas Linguistica Europaea<br>
+
+**Extending alignments for Tupían historical linguistics** <br>
 Tresoldi, Tiago and Ferraz Gerardi, Fabrício (2022)<br>
 Bucharest, 24-27 August 2022
 55th Annual Meeting of the Societas Linguistica Europaea<br>
