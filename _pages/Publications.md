@@ -45,8 +45,12 @@ Fabrício Ferraz Gerardi, Stanislav Reichert, Carolina Aragon, Tim Wientzek, Joh
 
 
 
+## Talks
 
-
+**Extending alignments for Tupían historical linguistics**<br>
+Tresoldi, Tiago and Ferraz Gerardi, Fabrício (2022)<br>
+Bucharest, 24-27 August 2022
+55th Annual Meeting of the Societas Linguistica Europaea<br>
 
 **Línguas Tupis, Universal Dependencies e Linguística Computacional**<br>
 Universidade Federal da Paraíba (março 2022)<br>
@@ -55,7 +59,6 @@ Universidade Federal da Paraíba (março 2022)<br>
 **Tupían Languages Resources: Data, Tools, Analyses**<br>
 Rodriguez, L. M. and Merzhevich, T. and Silva, W. and Tresoldi, T. and Aragon, C. and Ferraz Gerardi, F (2022)<br>
 [SIGUL](https://sigul-2022.ilc.cnr.it)<br>
-
 
 **Extending alignments for Tupían historical linguistics**<br>
 Tresoldi, Tiago and Ferraz Gerardi, Fabrício (2022)<br>
@@ -68,6 +71,22 @@ Oxford, 1-5 August 2022<br>
 Download slides: [Presentation](/assets/pdf/ICHL-2022.pdf)<br>
 [International Conference on Historical Linguistics 2022 (ICHL25)](https://ichl.ling-phil.ox.ac.uk)
 
+**When the macaw teaches you to eat the Brazil nut: Introducing a concept list of Tupían languages**<br>
+Fabrício Ferraz Gerardi, Carolina Coelho Aragon, and Stanislav Reichert (22/09/2021)<br>
+[Computer-Assisted Language Comparison in Practice](https://calc.hypotheses.org/2988)
+
+**Línguas Tupis, Universal Dependencies e Linguística Computacional**<br>
+Fabrício Ferraz Gerardi (Março 2022)<br>
+[Universidade Federal da Paraíba](cursoUFPB/index.html)<br>
+
+**Ciclo Experiências Indígenas: Histórias, Línguas e Territorialidades**<br>
+[Universidade Federal da Paraíba (2021)](https://sigeventos.ufpb.br/eventos/login.xhtml)
+
+
+## Workshops organized
+
+Diachronic Morphosyntax in South American Languages (Bruno Estigarribia & Fabrício Ferraz Gerardi). [56th Annual Meeting of the Societas Linguistica Europaea, Athens.](https://societaslinguistica.eu/sle2023/workshops/)
+
 
 ## ?
 
@@ -75,13 +94,8 @@ Download slides: [Presentation](/assets/pdf/ICHL-2022.pdf)<br>
 Filipidis, Evangelos (2022)<br>
 [Ebehard Karls Universität Tübingen](https://github.com/EvangelosF/Munduruku_FST/blob/main/README.md)
 
-**Línguas Tupis, Universal Dependencies e Linguística Computacional**<br>
-Fabrício Ferraz Gerardi (Março 2022)<br>
-[Universidade Federal da Paraíba](cursoUFPB/index.html)<br>
 
-**When the macaw teaches you to eat the Brazil nut: Introducing a concept list of Tupían languages**<br>
-Fabrício Ferraz Gerardi, Carolina Coelho Aragon, and Stanislav Reichert (22/09/2021)<br>
-[Computer-Assisted Language Comparison in Practice](https://calc.hypotheses.org/2988)
+
 
 **UD_Guarani-OldTuDeT (Old Guaraní Treebank)**<br>
 Gerardi, Fabrício Ferraz (2022)<br>
@@ -107,23 +121,3 @@ Gerardi, Fabrício Ferraz (2020)<br>
 Martín-Rodriguez, Lorena and Gerardi, Fabrício Ferraz (2021)<br>
 [Available online](https://github.com/UniversalDependencies/UD_Guajajara-TuDeT)
 
-**The typology of grammatical relations in Tuparian languages, with special focus on Akuntsú. In Language Change and Linguistic Diversity: studies in honour of Lyle Campbell**<br>
-Aragon, C. & Ferraz Gerardi, F. (2022)<br>
-Ed. Thiago Chacon, Nala Lee, and Wilson Silva. University of Glasgow Press. To appear<br>
-
-**Ciclo Experiências Indígenas: Histórias, Línguas e Territorialidades**<br>
-[Universidade Federal da Paraíba (2021)](https://sigeventos.ufpb.br/eventos/login.xhtml)
-
-
-
-**TuLeD (Tupían Lexical Database): Introducing a database of a South American language family**<br>
-Ferraz Gerardi, Fabrício & Reichert, Stanislav & Aragon, Carolina (2021)<br>
-To appear in Language Resources and Evaluation. DOI 10.1007/s10579-020-09521-5<br>
-
-**TuLeD: Tupían lexical database (Version v0.11)**<br>
-Fabrício Ferraz Gerardi, Stanislav Reichert, Carolina Aragon, Johann-Mattis List, & Tim Wientzek (2021)<br>
-[Data set](https://tular.clld.org/contributions/tuled). Zenodo: http://doi.org/10.5281/zenodo.4629306
-
-**A Grammar of Akuntsu: a Tupí an language**<br>
-Aragon, Carolina C. (2014)<br>
-[PhD dissertation. University of Hawaii](https://github.com/LanguageStructure/LanguageStructure.github.io/blob/main/Akuntsu_Grammar.pdf)
