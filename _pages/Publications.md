@@ -23,6 +23,8 @@ Ed. Thiago Chacon, Nala Lee, and Wilson Silva. University of Glasgow Press. To a
 
 ### Articles
 
+**Demic Diffusion and Cultural Transmission? Assessing the spread of Koriabo Tradition as an archaeological correlate of the Cariban language expansions** Barreto, B. & Ferraz Gerardi, F. & Carvalho, F. O. de & Tresoldi, T. (forthcoming)
+
 **Lexical Phylogenetics of the Tupí-Guaraní Family: Language, Archaeology, and the Problem of Chronology**
 Gerardi, F. F., Tresoldi, T., Aragon, C. C., Reichert, S., de Souza, J. G., & Noelli, F. S. (2023) PLOS ONE. [DOI 10.1371/journal.pone.0272226](https://doi.org/10.1371/journal.pone.0272226)<br>
 
