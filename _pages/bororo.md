@@ -2,7 +2,7 @@
 layout: page
 permalink: /bororo/
 title: Bororo
-nav: true
+nav: false
 ---
 
 
