@@ -50,8 +50,14 @@ Fabrício Ferraz Gerardi, Stanislav Reichert, Carolina Aragon, Tim Wientzek, Joh
 
 **A Phylogenetic Study of the Cariban Family
 Combining Linguistic and Archaeological Data**<br>
+Fabrício Ferraz Gerardi, Tiago Tresoldi, Fernando Orphão de Carvalho, and Bruno de Souza Barreto (2023)<br>
+Jena, 22-2r November 2023<br>
+[Big historical data conference](https://ichl.ling-phil.ox.ac.uk)
+
+**A Phylogenetic Study of the Cariban Family
+Combining Linguistic and Archaeological Data**<br>
 Tiago Tresoldi, Fernando Orphão de Carvalho, Fabrício Ferraz Gerardi and Bruno de Souza Barreto (2023)<br>
-Heidelberg, 4-8 September 2022<br>
+Heidelberg, 4-8 September 2023<br>
 [International Conference on Historical Linguistics 2023 (ICHL24)]([https://ichl.ling-phil.ox.ac.uk](https://www.slav.uni-heidelberg.de/forschung/tagungen/ichl26/index.html))
 
 **Revisiting the RRG binary lexical categories distinction: evidence from two South American families** <br>
