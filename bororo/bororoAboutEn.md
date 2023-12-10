@@ -18,7 +18,7 @@ Português:
 
 The Bororo language revitalization project has as its main objective to make the language spoken more frequently in the daily life of the community, both by adults and mainly by children, who are no longer speaking the language.
 
-## Where ?
+## Where?
 
 Initially, the work will be carried out in the [Meruri indigenous land](https://terrasindigenas.org.br/pt-br/terras-indigenas/3767)
 
