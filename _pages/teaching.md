@@ -6,6 +6,9 @@ description:
 nav: true
 ---
 
+**Language structure: the Grammar of Bororo (isolate, Brazil)** <br>
+SS 24 <br>
+
 **Linguistic diversity in Africa and in Brazil**<br>
 SS 23 (with Miri Mertner) <br>
 
